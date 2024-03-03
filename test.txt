@@ -1,1 +1,2 @@
 AAAA
+New line, which I forgot to add.
